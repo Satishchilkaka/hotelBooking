@@ -1,4 +1,4 @@
-# hotelBooking
+# hotel-Booking
 
 This is a sample repository for end-to-end tests running against Snaptravel's staging environment. It uses webdriver.io (see documentation links below).
 
